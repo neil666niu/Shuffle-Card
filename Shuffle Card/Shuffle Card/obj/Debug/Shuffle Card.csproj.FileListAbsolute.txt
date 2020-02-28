@@ -1,0 +1,6 @@
+C:\Users\Zixuan Yuan\Desktop\.NET\Shuffle Card\Shuffle Card\obj\Debug\Shuffle Card.csprojAssemblyReference.cache
+C:\Users\Zixuan Yuan\Desktop\.NET\Shuffle Card\Shuffle Card\bin\Debug\Shuffle Card.exe.config
+C:\Users\Zixuan Yuan\Desktop\.NET\Shuffle Card\Shuffle Card\bin\Debug\Shuffle Card.exe
+C:\Users\Zixuan Yuan\Desktop\.NET\Shuffle Card\Shuffle Card\bin\Debug\Shuffle Card.pdb
+C:\Users\Zixuan Yuan\Desktop\.NET\Shuffle Card\Shuffle Card\obj\Debug\Shuffle Card.exe
+C:\Users\Zixuan Yuan\Desktop\.NET\Shuffle Card\Shuffle Card\obj\Debug\Shuffle Card.pdb
